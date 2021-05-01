@@ -1,0 +1,3 @@
+[submodule "react-complete-guide"]
+	path = react-complete-guide
+	url = git@github.com:pankajnelsontirkey/react-complete-guide.git
