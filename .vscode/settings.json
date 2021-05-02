@@ -1,7 +1,8 @@
 {
   "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.associations": { "*.js": "javascriptreact" },
   "files.eol": "\n",
   "files.trimFinalNewlines": true,
-  "files.trimTrailingWhitespace": true,
-  "editor.tabSize": 2
+  "files.trimTrailingWhitespace": true
 }
